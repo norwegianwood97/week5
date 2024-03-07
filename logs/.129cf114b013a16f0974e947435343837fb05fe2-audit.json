@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\jhcho\\OneDrive\\바탕 화면\\sparta\\main_course\\0307_week5_hw\\lv.5\\logs\\.129cf114b013a16f0974e947435343837fb05fe2-audit.json",
+    "files": [
+        {
+            "date": 1709796549077,
+            "name": "C:\\Users\\jhcho\\OneDrive\\바탕 화면\\sparta\\main_course\\0307_week5_hw\\lv.5\\logs\\2024-03-07.log",
+            "hash": "612cfbc54096309a69aef15887841d7b4736e89e144f2ed34965b5bdd53f8ce1"
+        }
+    ],
+    "hashType": "sha256"
+}

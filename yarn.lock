@@ -1055,7 +1055,7 @@ picomatch@^2.0.4, picomatch@^2.2.1:
 
 prisma@^5.10.2:
   version "5.10.2"
-  resolved "https://registry.npmjs.org/prisma/-/prisma-5.10.2.tgz"
+  resolved "https://registry.yarnpkg.com/prisma/-/prisma-5.10.2.tgz#aa63085c49dc74cdb5c3816e8dd1fb4d74a2aadd"
   integrity sha512-hqb/JMz9/kymRE25pMWCxkdyhbnIWrq+h7S6WysJpdnCvhstbJSNP/S6mScEcqiB8Qv2F+0R3yG+osRaWqZacQ==
   dependencies:
     "@prisma/engines" "5.10.2"
